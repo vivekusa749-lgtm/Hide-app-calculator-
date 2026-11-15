@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hide Calculator X</string>
+    <string name="vault_subtitle">AES-256 Encrypted Local Vault</string>
+    <string name="lock_vault">Lock Vault</string>
+    <string name="setup_title">Initialize Vault PIN</string>
+    <string name="setup_subtitle">Set a 4 to 8 digit PIN. Enter your PIN and press = on the calculator anytime to open your private vault.</string>
+    <string name="recovery_hint_tip">Tip: Long-press AC on the calculator anytime if you forget your PIN.</string>
+    <string name="app_locker_channel_name">App Locker Protection</string>
+    <string name="app_locker_channel_desc">Keeps selected app lock monitoring active in the background.</string>
+    <string name="app_locker_notif_title">App Locker Active</string>
+    <string name="app_locker_notif_text">Protecting %1$d locked app(s) locally.</string>
+    <string name="privacy_policy_body">Hide Calculator X operates 100%% offline on your device.\n\n1. Zero Server Uploads: Your photos, videos, PINs, and recovery keys never leave your device.\n\n2. Hardware-Backed Encryption: Private media is encrypted using AES-256-GCM with keys stored inside the Android Keystore.\n\n3. Minimal Permissions: Media importing uses the zero-permission Android Photo Picker. App Locker permissions (Usage Access and Display Over Other Apps) are used strictly on-device to detect and lock selected apps.\n\n4. No Telemetry or Ads: We collect no analytics, identifiers, or personal information.</string>
+</resources>

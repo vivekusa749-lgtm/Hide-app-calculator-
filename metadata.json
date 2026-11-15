@@ -1,0 +1,6 @@
+{
+  "name": "Hide Calculator X",
+  "description": "Discreet dark-mode calculator with an encrypted local photo and video vault, app locker, and Android Keystore security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
